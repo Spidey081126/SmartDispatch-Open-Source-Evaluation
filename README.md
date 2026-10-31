@@ -40,3 +40,4 @@ Also submit `TESTING.md` and the challenge-specific notes file named in [the pro
 Before editing, read the student checklist and inspect the source files, synthetic data, every test under `tests/`, environment/configuration files, and the workflows under `.github/workflows/`. Understand what each file does before changing it.
 
 The starter contains intentionally incomplete behaviour. Fix root causes and preserve the tests. Do not edit CI to evade failures. You must be able to explain your code and may be asked to make a small live modification.
+
